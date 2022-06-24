@@ -7,8 +7,7 @@ A simple wrapper for confluent_kafka package's admin functionalities for managin
 # Examples
 
 # TODOs/Features
-[] Create a topic
-[] Check if a topic already exists
-[] Check if multiple topics exist
-[] Delete a topic
+[x] Create a topic
+[x] Check if topic(s) already exist
+[x] Delete a topic
 
